@@ -2,11 +2,11 @@
 
 ## About Me
 
-6+ years of experience animating.
-Professional on Blender, 3DMax and Maya
-Spanish Native-Speaker
-C1 on english
-Worker on (example game)
+- 6+ years of experience animating.
+- Professional on Blender, 3DMax and Maya
+- Spanish Native-Speaker
+- C1 on english
+- Worker on (example game)
 
 
 ## Best Works
