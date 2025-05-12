@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there, Im Carlos Pérez.
+
+## About Me
+
+6+ years of experience animating.
+Professional on Blender, 3DMax and Maya
+Spanish Native-Speaker
+C1 on english
+Worker on (example game)
+
+
+## Best Works
+
 
 <!--
 **vvgo12345/vvgo12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
