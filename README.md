@@ -6,7 +6,7 @@
 ## About Me
 
 - 6+ years of experience on animation
-- - Worked on ...
+- Worked on ...
 - Professional on Blender, 3DMax and Maya
 - Spanish Native-Speaker
 - C1 on english
