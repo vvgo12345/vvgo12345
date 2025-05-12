@@ -18,6 +18,8 @@
 
 ## Best Works
 
+https://www.artstation.com
+
 ![200w](https://github.com/user-attachments/assets/5cc02033-7bf1-436b-bd7f-c4eb356e9ae2)
 ![3279462667fb3498a6aa144e7cdea2ae](https://github.com/user-attachments/assets/e623ab0d-4fd1-4f55-98a5-9a23fbf03fd7)
 
@@ -31,8 +33,8 @@
 ## My socials
 
 - artstation.com
-- x.com
 - linkedin.com
+- x.com
 - instragram.com
 - youtube.com
 
